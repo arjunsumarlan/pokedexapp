@@ -2,7 +2,7 @@
 
 Pokedex app is a simple Pokedex mobile apps based on React Native using PokeApi (https://pokeapi.co/) to get all pokemon data.
 
-![](https://github.com/arjunsumarlan/pokedexapp/blob/master/Pokedexapp.gif){:height="50%" width="50%"}
+<img src="https://github.com/arjunsumarlan/pokedexapp/blob/master/Pokedexapp.gif" width="400" height="790">
 
 ## Getting started
 
