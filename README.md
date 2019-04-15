@@ -13,5 +13,5 @@ git clone https://github.com/arjunsumarlan/pokedexapp.git
 cd pokedexapp
 npm install
 react-native link
-react-native start
+react-native run-android
 ```
