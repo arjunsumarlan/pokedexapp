@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, View, ActivityIndicator, Image, ScrollView, ProgressBarAndroid } from 'react-native';
+import { Text, View, ActivityIndicator, Image, ScrollView, ProgressBarAndroid } from 'react-native'; 
 import globalStyles from '../../assets/globalStyles';
 import { width, height } from '../../assets/constants/constants';
 import TouchableItem from '../../assets/components/TouchableItem'
